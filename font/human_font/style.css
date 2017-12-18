@@ -1,0 +1,50 @@
+/************************/
+/***    Human Logo    ***/
+/************************/
+
+@font-face {
+	font-family: 'human';
+	src:url('fonts/human.eot?vofu0w');
+	src:url('fonts/human.eot?#iefixvofu0w') format('embedded-opentype'),
+		url('fonts/human.woff?vofu0w') format('woff'),
+		url('fonts/human.ttf?vofu0w') format('truetype'),
+		url('fonts/human.svg?vofu0w#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'human';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-human_logo_2:before, .icon-human_logo_3:before {
+	content: "\e600";
+	font-size: 2.8rem;
+	color: #342b29;
+}
+
+.icon-human_logo_2.small:before, .icon-human_logo_3.small:before {
+	font-size: 1.68rem;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+}
+
+.icon-human_logo_2.big:before, .icon-human_logo_3.big:before{
+	font-size: 2.8rem;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+}

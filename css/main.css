@@ -1,0 +1,180 @@
+/* =========================== */
+/*      HOME      */
+/* =========================== */
+
+.image-fpo  {
+  background-image: url(../image/fpo.jpg);
+  }
+
+.image-headshot  {
+  background-image: url(../image/headshot-small.jpg);
+  }
+
+
+/* =========================== */
+/*      GLOBAL      */
+/* =========================== */
+
+.icon-scroll-chevron-text {
+/*  margin-top: 175px;*/
+  margin-left: 0px;
+}
+
+/************************/
+/***    Human Logo    ***/
+/************************/
+
+@font-face {
+  font-family: 'human';
+  src:url('../font/human_font/fonts/human.eot?vofu0w');
+  src: local("☺"),
+    url('../font/human_font/fonts/human.eot?#iefixvofu0w') format('embedded-opentype'),
+    url('../font/human_font/fonts/human.woff?vofu0w') format('woff'),
+    url('../font/human_font/fonts/human.ttf?vofu0w') format('truetype'),
+    url('../font/human_font/fonts/human.svg?vofu0w#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'human';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-human_logo_2:before, .icon-human_logo_3:before {
+  content: "\e600";
+  // font-size: 2.8rem;
+  // color: #342b29;
+}
+
+.icon-human_logo_2.small:before, .icon-human_logo_3.small:before {
+  font-size: 1.68rem;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+}
+
+.icon-human_logo_2.big:before, .icon-human_logo_3.big:before{
+  font-size: 2.8rem;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+}
+
+/************************/
+/***    Client Logos    ***/
+/************************/
+
+
+[class*="img-logo-"] {
+background-color: #fff;
+margin-bottom:20px;
+padding-top:8em;
+}
+
+.img-logo-ipg { 
+background-image: url("../image/logos/clients/IPG_Square.png"); 
+background-size: 40%;
+}
+
+.img-logo-mb { 
+background-image: url("../image/logos/clients/IPG_MB.jpg");
+background-size: 60%;
+}
+
+.img-logo-initiative { 
+background-image: url("../image/logos/clients/initiative_logo.jpg");
+background-size: 60%;
+}
+
+.img-logo-um { 
+background-image: url("../image/logos/clients/Universal_McCann_logo_2013.jpg");
+background-size: 60%;
+}
+
+.img-logo-futurebrand { 
+background-image: url("../image/logos/clients/futurebrand_logo.png");
+background-size: 75%;
+}
+
+.img-logo-mbooth { 
+background-image: url("../image/logos/clients/m-booth-revamp-21-273x300.jpg");
+background-size: 40%;
+}
+
+.img-logo-human { 
+background-image: url("../image/logos/clients/human_logo-2_small.png");
+background-size: 65%;
+}
+
+.img-logo-chalk { 
+background-image: url("../image/logos/clients/chalk_242.jpg");
+background-size: 70%;
+}
+
+.img-logo-sarankco { 
+background-image: url("../image/logos/clients/sarankco.jpg");
+background-size: 85%;
+}
+
+.img-logo-spark { 
+background-image: url("../image/logos/clients/spark_RGB.png");
+background-size: 50%;
+}
+
+.img-logo-zero-in { 
+background-image: url("../image/logos/clients/Zero-In_Logo_2016-01.png");
+background-size: 80%;
+}
+
+.img-logo-profero { 
+background-image: url("../image/logos/clients/Mullenlowe_Profero1.jpg");
+background-size: 80%;
+}
+
+.img-logo-publicis { 
+background-image: url("../image/logos/clients/new-publicis1.png");
+background-size: 80%;
+}
+
+.img-logo-fcb { 
+background-image: url("../image/logos/clients/FCB_logo_smaller.png");
+background-size: 40%;
+}
+
+.img-logo-bbdo { 
+background-image: url("../image/logos/clients/Logo_of_BBDO.jpg");
+background-size: 70%;
+}
+
+.img-logo-digitas { 
+background-image: url("../image/logos/clients/logo_digitaslbi.svg");
+background-size: 80%;
+}
+
+.img-logo-organic { 
+background-image: url("../image/logos/clients/organic.png");
+background-size: 65%;
+}
+
+.img-logo-sg { 
+background-image: url("../image/logos/clients/s+g.png");
+background-size: 30%;
+}
+
+.img-logo-proximity { 
+background-image: url("../image/logos/clients/proximity.png");
+background-size: 80%;
+}
