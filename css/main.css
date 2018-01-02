@@ -178,3 +178,123 @@ background-size: 30%;
 background-image: url("../image/logos/clients/proximity.png");
 background-size: 80%;
 }
+
+/************************/
+/***    Client Logos    ***/
+/************************/
+
+
+[class*="img-logo-"] {
+background-color: #fff;
+margin-bottom:.01em;
+padding-top:12em;
+}
+
+.img-logo-ipg { 
+background-image: url("../image/logos/clients/IPG_Square.png"); 
+background-size: 30%;
+}
+
+.img-logo-amex { 
+background-image: url("../image/logos/companies/amex.png");
+background-size: 25%;
+}
+
+.img-logo-century { 
+background-image: url("../image/logos/companies/century21.svg");
+background-size: 35%;
+}
+
+.img-logo-gucci { 
+background-image: url("../image/logos/companies/gucci.svg");
+background-size: 40%;
+}
+
+.img-logo-pwc { 
+background-image: url("../image/logos/companies/pwc.svg");
+background-size: 35%;
+}
+
+.img-logo-related { 
+background-image: url("../image/logos/companies/related.svg");
+background-size: 55%;
+}
+
+.img-logo-opp { 
+background-image: url("../image/logos/companies/opp-1.png");
+background-size: 65%;
+}
+
+.img-logo-mck { 
+background-image: url("../image/logos/companies/mck-logo.png");
+background-size: 42%;
+}
+
+/* =========================== */
+/*      MORPHO      */
+/* =========================== */
+
+.img-bg-icon-flower  {
+  background-image: url(../image/icons/icon-flower.png);
+  }
+
+.img-bg-icon-flower-white  {
+  background-image: url(../image/icons/icon-flower-white.png);
+  }
+
+.img-bg-icon-flower-cyan  {
+  background-image: url(../image/icons/icon-flower-cyan.png);
+  }
+
+ .img-bg-icon-flower-5  {
+  background-image: url(../image/icons/icon-flower-5.png);
+  }
+
+ .img-bg-icon-movie  {
+  background-image: url(../image/icons/icon-movie.gif);
+}
+
+ .img-bg-icon-grid  {
+  background-image: url(../image/icons/z-icon-grid.svg);
+}
+
+.img-bg-morpho-logo  {
+  background-image: url(../image/icons/morpho-logo.svg);
+  }
+
+.img-bg-morpho-logo-inverse  {
+  background-image: url(../image/icons/morpho-logo-inverse.svg);
+  }
+
+.img-bg-icon-range-cyan {
+  background-image: url(../image/icons/evo-icons-cyan.png);
+  }
+
+  /* =========================== */
+/*      EVO      */
+/* =========================== */
+
+.img-bg-colors-2  {
+  background-image: url(../image/evolution/colors-2.png);
+  }
+
+.img-bg-colors-3  {
+  background-image: url(../image/evolution/colors-3.png);
+  }
+
+/* =========================== */
+/*      EVOLUTION      */
+/* =========================== */
+
+
+.img-bg-colors  {
+  background-image: url(../image/evolution/methodology/IMG_2971.JPG);
+  }
+
+.img-bg-brand-guide  {
+  background-image: url(../image/evolution/brand-guide.jpg);
+  }
+
+// .img-bg-colors  {
+//   background-image: url(../image/evolution/colors-3.png);
+//   }
